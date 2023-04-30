@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/belajar-react-dua/static/css/main.ed5d45b8.css",
+    "main.js": "/belajar-react-dua/static/js/main.711f97e4.js",
+    "index.html": "/belajar-react-dua/index.html",
+    "main.ed5d45b8.css.map": "/belajar-react-dua/static/css/main.ed5d45b8.css.map",
+    "main.711f97e4.js.map": "/belajar-react-dua/static/js/main.711f97e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed5d45b8.css",
+    "static/js/main.711f97e4.js"
+  ]
+}
